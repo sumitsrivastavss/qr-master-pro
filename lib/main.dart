@@ -10,6 +10,9 @@ void main() async {
 }
 
 class QRMasterApp extends StatefulWidget {
+
+
+  
   const QRMasterApp({super.key});
 
   @override
