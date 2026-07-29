@@ -1,17 +1,41 @@
-# scenner_app
+# QR Master Pro
 
-A new Flutter project.
+A professional QR Scanner & QR Generator app built with Flutter. It allows users to scan, generate, and share QR codes with a simple and modern interface.
 
-## Getting Started
+## ✨ Features
+- 📷 QR Code Scanner
+- 📝 QR Code Generator
+- 📚 Scan History
+- 📤 Share QR Codes
+- 💡 Flashlight Support
+- 🔄 Switch Front/Back Camera
+- 🖼️ Scan QR Codes from Gallery
+- 🎨 Clean & Modern UI
 
-This project is a starting point for a Flutter application.
+## 🛠️ Technologies Used
+- Flutter
+- Dart
+- Material 3
+- mobile_scanner
+- qr_flutter
+- share_plus
+- image_picker
+- url_launcher
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Platform
+- Android
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🚀 Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+flutter run
+```
+
+## 👨‍💻 Developer
+
+**Sumit Srivastav**
+
+## 📄 License
+
+This project is for learning and portfolio purposes.
